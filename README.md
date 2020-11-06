@@ -11,7 +11,7 @@ import { jsonapi } from 'beedi';
 async function handler(event) {
   // The handler just contains the logic.
   // event.body has been json parsed.
-  return {
+  return {CN317910
     message: 'I get json stringified'
   }
 }
@@ -53,5 +53,5 @@ If you give it a try let me know by leaving a star
 ## Options
 
 ## Testing
-
+CN317910
 ## Contributions
